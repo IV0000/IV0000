@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ivan</h1>
 <h3 align="center">A passionate iOS Engineer from Italy</h3>
 
-- 🌱 I’m currently learning **AI / ML stuff**
+- 🌱 I’m currently learning **Ruby**
 
-- 👯 I’m looking to collaborate on **new and interesting iOS projects**
-
-- 💬 Ask me about **SwiftUI and I will be happy to answer**
+- 💬 Ask me about **iOS development and I will be happy to answer**
 
 - 📫 How to reach me **ivo.volosh@gmail.com**
 
